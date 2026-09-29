@@ -87,7 +87,6 @@ Response Body
 night-owl-api/
 ├── index.js
 ├── package.json
-├── package-lock.json
 ├── README.md
 └── .gitignore
 ```
